@@ -8,8 +8,8 @@
  * All rights reserved
  */
 
-#ifndef MG_INTERNAL_HEADER_INCLUDED
-#define MG_INTERNAL_HEADER_INCLUDED
+#ifndef MG_INTERNAL_HEADER_INCLUDEDasdd
+#define MG_INTERNAL_HEADER_INCLUDEDww
 
 #ifndef MG_MALLOC
 #define MG_MALLOC malloc
